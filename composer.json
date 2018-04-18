@@ -1,5 +1,5 @@
 {
-    "name": "nathanmac/parser",
+    "name": "peterdkc/parser",
     "description": "Simple PHP Parser Utility Library for API Development",
     "keywords": [
       "parser",
@@ -7,12 +7,16 @@
       "xml",
       "API"
     ],
-    "homepage": "https://github.com/nathanmac/Parser",
+    "homepage": "https://github.com/PeterDKC/Parser",
     "license": "MIT",
     "authors": [
         {
             "name": "Nathan Macnamara",
             "email": "hola@nathanmac.com"
+        },
+        {
+            "name": "Peter DeMarco",
+            "email": "yinrunning@gmail.com"
         }
     ],
     "require": {
