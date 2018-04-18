@@ -1,7 +1,11 @@
+**Note:** This package is a fork and may / may not be maintained independently depending on whether the original maintainer starts maintaining his source as of 4/18/2018. Please use with caution and Watch the source repo for updates.
+
+All the documentation below should still be relevant although items such as build status may not reflect reality for this fork.
+
 Parser
 ======
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nathanmac/Parser.svg?style=flat-square)](https://packagist.org/packages/nathanmac/parser)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/peterdkc/Parser.svg?style=flat-square)](https://packagist.org/packages/peterdkc/parser)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/nathanmac/Parser/master.svg?style=flat-square)](https://travis-ci.org/nathanmac/Parser)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/nathanmac/Parser.svg?style=flat-square)](https://scrutinizer-ci.com/g/nathanmac/Parser/code-structure)
